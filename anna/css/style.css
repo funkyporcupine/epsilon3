@@ -1,49 +1,3 @@
-/*
-
-	Theme Name: Pixicon
-
-	Author: Designstub
-
-	Author URI: www.designstub.com
-
-	License: GNU General Public License version 3.0
-
-	License URI:
-
-	Version: 1.0
-
-	
-
-	1. Body style
-
-	2. Main
-
-	3.
-
-	4. Header
-
-		1. Hgroup
-
-			1. Logo
-
-			2. Nave
-
-			3. Socil Icon
-
-		2. Footer
-
-	5. Countdown
-
-	6. Page Title
-
-	7. Introduction
-
-	8. Subscribe
-
-	9. Contact
-
-*/
-
 @import url(https://fonts.googleapis.com/css?family=Oranienbaum);
 
 html {
@@ -204,7 +158,7 @@ a:focus, img:focus, button:focus, .btn:focus {
 
 /*===== Main ===*/
 
-main[role="main-wrapper-iamge"],main[role="main-wrapper-iamge"] > .over-bg-color{ background-image:url(../images/bg-image.jpg); background-size:cover; background-position:50% 0; background-repeat:no-repeat; width:100%; height:100%; position:fixed; width:100%; height:100%}
+main[role="main-wrapper-iamge"],main[role="main-wrapper-iamge"] > .over-bg-color{ background-image:url(https://funkyporcupine.github.io/epsilon3/anna/css/bg-image.jpg); background-size:cover; background-position:50% 0; background-repeat:no-repeat; width:100%; height:100%; position:fixed; width:100%; height:100%}
 
 main[role="main-wrapper-iamge"] > .over-bg-color{background-color:rgba(255,255,255,0.5); background-image:none; padding:0}
 
